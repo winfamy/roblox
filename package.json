@@ -1,0 +1,19 @@
+{
+  "name": "roblox",
+  "version": "1.0.0",
+  "description": "Just the raw class files for my ROBLOX API.",
+  "main": "roblox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winfamy/roblox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winfamy/roblox/issues"
+  },
+  "homepage": "https://github.com/winfamy/roblox#readme"
+}
